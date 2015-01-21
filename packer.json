@@ -21,7 +21,7 @@
       "shutdown_command": "echo 'shutdown -P now' > shutdown.sh; echo 'vagrant'|sudo -S sh 'shutdown.sh'",
       "ssh_password": "vagrant",
       "ssh_port": 22,
-      "ssh_username": "vagrant",
+      "ssh_username": "ksr",
       "ssh_wait_timeout": "10000s",
       "type": "virtualbox-iso",
       "vboxmanage": [
